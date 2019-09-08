@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1567893534 source:c:\users\ishan\codeblock_workspace\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1567376340 source:c:\users\ishan\codeblock_workspace\tictactoe\expeiment.c
+	<stdio.h>
+
